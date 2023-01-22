@@ -1,0 +1,34 @@
+h1{
+    color: rgb(199, 199, 5);
+    text-align: center;
+  font-style: oblique;
+  margin-top: 10px;
+  
+}
+ div{
+    text-align: center;
+    margin-top: 10px;
+    border: 10px; 
+ 
+ }  
+
+button{
+    outline-style:dashed;
+    color: rgb(137, 5, 225);
+  background-color: bisque;
+  
+}
+#active{
+    color: brown;
+    font-size: 30px;
+
+    
+}
+*{
+    background-color: aquamarine;
+}
+#pona{
+    color:red;
+
+    font-size: 30px;
+}
